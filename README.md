@@ -9,3 +9,7 @@ This repository contains code for analyses to measure human and algorithm perfor
 <b>Who Is That? Perceptual Expertise on Other-Race Face Comparisons, Disguised Face Comparisons, and Face Memory</b>
 * Code: [GitHub](https://github.com/usnistgov/face-recognition-humans-machines/tree/main/WhoIsThat)
 * Paper: Yates, A. N., Cavazos, J. G., Jeckeln, G., Hu, Y., Noyes, E., Hahn, C. A., O'Toole, A. J., & Phillips, P. J. (2023). Who Is That? Perceptual Expertise on Other-Race Face Comparisons, Disguised Face Comparisons, and Face Memory. PsyArXiv Preprint. https://doi.org/10.31234/osf.io/s87na
+
+## Other work
+
+For FRTE and FATE (formerly FRVT), see [usnistgov/frvt](https://github.com/usnistgov/frvt)
